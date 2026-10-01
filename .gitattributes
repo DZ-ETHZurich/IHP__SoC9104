@@ -1,0 +1,2 @@
+release/v.1.0.0/gds/SoC9104.gds.gz filter=lfs diff=lfs merge=lfs -text
+release/v.1.0.0/netlist/basilisk_v2_v1p0-26-10-01.spice filter=lfs diff=lfs merge=lfs -text
